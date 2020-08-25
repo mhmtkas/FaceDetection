@@ -1,4 +1,5 @@
-need to run project things
+
+Requirements for building the project
 
 PyCharm 
 
