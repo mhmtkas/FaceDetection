@@ -17,12 +17,13 @@ PyCharm can be downloaded from Ubuntu Software, it must be Community Edition ver
 
 For Python :  sudo apt-get install python3
 
-For OpenCv :  sudo apt install python3-pip
+For OpenCv : 
+              sudo apt install python3-pip
               pip3 install opencv-python
            
-                       or
+                       
            
-                sudo apt install python3-opencv
+                
 
 
 For PyQt5:    pip3 install --user pyqt5
